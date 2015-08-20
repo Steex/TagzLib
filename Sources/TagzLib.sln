@@ -1,12 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagzLib", "TagzLib\TagzLib.csproj", "{B6AAF627-70F3-489C-9653-37CB36AC6A0B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{6FC8B471-AE61-45F5-A7B2-A487672FFD3D}"
 	ProjectSection(ProjectDependencies) = postProject
 		{B6AAF627-70F3-489C-9653-37CB36AC6A0B} = {B6AAF627-70F3-489C-9653-37CB36AC6A0B}
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagzLib", "TagzLib\TagzLib.csproj", "{B6AAF627-70F3-489C-9653-37CB36AC6A0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
