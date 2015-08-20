@@ -1,0 +1,10 @@
+/Sources/*/obj
+/Sources/*.suo
+Antlr4.Runtime.net40.dll
+Antlr4.Runtime.net40.xml
+Tagz.dll
+Tagz.pdb
+TestApp.exe
+TestApp.pdb
+TestApp.vshost.exe
+TestApp.vshost.exe.manifest
