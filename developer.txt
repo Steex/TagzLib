@@ -1,0 +1,2 @@
+How to setup a new project to use ANTLR (this one is already set):
+  http://programming-pages.com/2013/12/14/antlr-4-with-c-and-visual-studio-2012/
